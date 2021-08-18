@@ -1,5 +1,7 @@
 # Hi, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
+
 <img width="597" alt="Screenshot 2021-08-19 at 00 10 27" src="https://user-images.githubusercontent.com/60359037/129972956-16b9a4dd-7703-4caa-919c-1772c397cdd9.png">
 
 
@@ -11,7 +13,7 @@
 
 # My Skills
 
-[](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=4AB197)
 
 
