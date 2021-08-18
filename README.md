@@ -25,7 +25,7 @@ I am Ece
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-XML-informational?style=flat&logo=XML&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=4AB197)
 
 
 
