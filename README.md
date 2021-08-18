@@ -4,8 +4,8 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ececaliskan22/)
 
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=Dart&logoColor=white&color=4AB197)
+[](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=Dart&logoColor=white&color=4AB197)
 
 
 
