@@ -3,6 +3,7 @@
 I am Ece
 <br>
 👩🏻‍🎨 love to code, paint, travel, play guitar and listen NF
+<br>
 👩🏻‍💻 mainly interested in mobile development and games 
 
 
