@@ -1,7 +1,7 @@
 # Hi, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am Ece
-</ br>
+<\ br>
 👩🏻‍🎨 love to code, paint, travel, play guitar and listen NF
 👩🏻‍💻 mainly interested in mobile development and games 
 
