@@ -1,6 +1,6 @@
 # Hi, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img width="597" alt="Screenshot 2021-08-19 at 00 10 27" src="https://user-images.githubusercontent.com/60359037/129972956-16b9a4dd-7703-4caa-919c-1772c397cdd9.png">
+<img width="997" alt="Screenshot 2021-08-19 at 00 10 27" src="https://user-images.githubusercontent.com/60359037/129972956-16b9a4dd-7703-4caa-919c-1772c397cdd9.png">
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eceCaliskan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
