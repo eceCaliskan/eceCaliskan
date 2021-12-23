@@ -1,8 +1,8 @@
 # Hi, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div>
+
 <img width="597" alt="Screenshot 2021-08-19 at 00 10 27" src="https://user-images.githubusercontent.com/60359037/129972956-16b9a4dd-7703-4caa-919c-1772c397cdd9.png">
-<div style="background-image: url('https://user-images.githubusercontent.com/60359037/129972956-16b9a4dd-7703-4caa-919c-1772c397cdd9.png');">
+
 
 
 
