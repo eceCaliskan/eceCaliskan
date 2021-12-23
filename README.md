@@ -1,7 +1,7 @@
 # Hi, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<img width="657px" alt="Screenshot 2021-08-19 at 00 10 27" src="https://user-images.githubusercontent.com/60359037/129972956-16b9a4dd-7703-4caa-919c-1772c397cdd9.png">
+<img width="557px" alt="Screenshot 2021-08-19 at 00 10 27" src="https://user-images.githubusercontent.com/60359037/129972956-16b9a4dd-7703-4caa-919c-1772c397cdd9.png">
 
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/5FlgRYbzgF1VfuXOntasCW?utm_source=generator&theme=0)
