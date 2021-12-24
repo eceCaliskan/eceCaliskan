@@ -5,7 +5,8 @@
 
 <img width="850" alt="129972956-16b9a4dd-7703-4caa-919c-1772c397cdd9" src="https://user-images.githubusercontent.com/60359037/147284125-859f020b-04b9-4534-aa2c-1390863424b7.png">
 
-[![Spotify](https://playlist-nine.vercel.app/api/spotify)](https://open.spotify.com/user/ece98caliskan)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ece98caliskan)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
 # My Skills
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
