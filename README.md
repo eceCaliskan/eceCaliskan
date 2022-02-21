@@ -1,6 +1,6 @@
 # Hi, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-☀︎A Full stack developer who also likes to paint and play guitar.
+A Full stack developer who also likes to paint and play guitar.
 
 
 # My Skills
