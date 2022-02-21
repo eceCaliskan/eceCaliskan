@@ -1,5 +1,8 @@
 # Hi, Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+☀︎A Full stack developer who also likes to paint and play guitar.
+
+
 # My Skills
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Twig-informational?style=flat&logo=Twig&logoColor=white&color=4AB197)
